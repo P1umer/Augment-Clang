@@ -51,7 +51,7 @@ export AUTO_COMPILE_OPTION="-O1"
 ```
 Optional value: `["-O0","-O1","-O2","-O3","-O4","-Os","-Oz","-Ofast"]`.
 ### 2. AUTO_COMPILE_STORAGE_PATH
-This environment variable should be set to the global path to the folder where object file copies are stored.
+This environment variable should be set to the global path to the folder where object file copies will be stored.
 ```
 export AUTO_COMPILE_STORAGE_PATH="/tmp/copys"
 ```
